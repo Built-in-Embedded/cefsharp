@@ -56,10 +56,10 @@
     <div class="container bs-docs-container">        
         
         
-   <div active_class="md-fenced-code-tabs">	
+<!--   <div active_class="md-fenced-code-tabs">	-->
 
-
-window.$docsify = {
+<script type="text/javascript">
+ window.$docsify = {
   // ...
   tabs: {
     persist    : true,      // default
@@ -68,7 +68,8 @@ window.$docsify = {
     tabComments: true,      // default
     tabHeadings: true       // default
   }
-};
+ };
+</script>
 
 
  <!-- Footer
@@ -98,7 +99,7 @@ Based on the <a href="http://getbootstrap.com/getting-started/">Twitter Bootstra
 </body>
 </html>
 
-
+***
 
 
 
@@ -106,7 +107,6 @@ Based on the <a href="http://getbootstrap.com/getting-started/">Twitter Bootstra
 dotnet add package CefSharp.WinForms --version {00.0.000}-CI{0000} --source https://www.myget.org/F/cefsharp/api/v3/index.json
 ```
 
-</div>
 
 ---
    
