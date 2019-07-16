@@ -1,18 +1,18 @@
  
- <div class="tab-content"/>
+``` c
+printf("HELLO WORLD!");
+```
 
+``` java 
+System.out.println("HELLO WORLD!");
+```
+
+``` python
+print("HELLO WORLD!")
+```
 
 ```.NET
 dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://www.myget.org/F/cefsharp/api/v3/index.json
-```
-
-
-``` python fct_label="Python 2"
-print "Bonjour" 
-```
-
-``` python fct_label="Python 3"
-print("Bonjour")
 ```
 
 ---
