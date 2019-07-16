@@ -1,4 +1,15 @@
 
+namespace #
+{
+    /// <summary>
+    /// ChromiumWebBrowser is the WinForms web browser control
+    /// </summary>
+  
+    public class
+    {}
+}
+
+```sln
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2019
@@ -193,3 +204,4 @@ Global
 		SolutionGuid = {E667E2F4-BFCF-4187-A0E7-69883146951D}
 	EndGlobalSection
 EndGlobal
+```
