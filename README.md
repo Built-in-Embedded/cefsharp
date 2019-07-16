@@ -1,3 +1,4 @@
+ 
  <div class="tab-content"/>
 
 
@@ -11,16 +12,14 @@ Content1 ...
 # [Tab Name](#tab/tab-id-2)
 Content2 ...
 ---
-
      
      
                  
 Browse the sources in this package using Visual Studio or WinDbg by configuring 
-the following symbol server URL: 
+the following symbol server URL:
 ```yml
 https://www.myget.org/F/cefsharp/symbols/ 
 ```
-
 
 ***
 
