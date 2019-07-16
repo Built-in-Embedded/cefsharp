@@ -1,10 +1,46 @@
 
-<div class="md-fenced-code-tabs">
+
+<ht<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">  
+    <title> CefSharp </title>
    
-<div active_class="md-fenced-code-tabs">	
+    <!-- core CSS -->
+    <link href="assets/css/#.min.css" rel="stylesheet">
+
+    <!-- Page-specific extras -->
+    <link href="assets/css/#.css" rel="stylesheet">
+
+</head>
+<body>
+   
+   <div active_class="md-fenced-code-tabs">	
+
+
+window.$docsify = {
+  // ...
+  tabs: {
+    persist    : true,      // default
+    sync       : true,      // default
+    theme      : 'classic', // default
+    tabComments: true,      // default
+    tabHeadings: true       // default
+  }
+};
+
+</html>
+
+
+
+
 
 ```.NET
-dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://www.myget.org/F/cefsharp/api/v3/index.json
+dotnet add package CefSharp.WinForms --version {00.0.000}-CI{0000} --source https://www.myget.org/F/cefsharp/api/v3/index.json
 ```
 
 </div>
