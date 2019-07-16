@@ -1,81 +1,17 @@
+ <div class="tab-content"/>
 
 
 ```.NET
 dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://www.myget.org/F/cefsharp/api/v3/index.json
 ```
 
- <div class="tab-content">
 
+# [Tab Name](#tab/tab-id-1)
+Content1 ...
+# [Tab Name](#tab/tab-id-2)
+Content2 ...
+---
 
-<ul id="tabbar"> <!-- Tab Links id -->
-    <!-- Tab Links Children -->
-    <li data-item="tab-one tab-active" data-initial="true">Tab One</li>
-    <li data-item="tab-two">Tab Two</li>
-    <li data-item="tab-three">Tab Three</li>
-    <li data-item="tab-four">Tab Four</li>
-</ul>
-
-<div id="tabview"> <!-- Tab View id  -->
-    <!-- Tab View Children -->
-    <h1 data-view="tab-one">
-        Tab 1
-    </h1>
-    <h1 data-view="tab-two">
-        Tab 2
-    </h1>
-    <h1 data-view="tab-three">
-        Tab 3
-    </h1>
-    <h1 data-view="tab-four">
-        Tab 4
-    </h1>
-</div>
-
-|----------------|----------------|
-|----------------|----------------|
-
-
-<!--
- <div class="tabs-top">
- <ul class="nav nav-tabs">
-                <li class=""><a href="#nuget" data-toggle="tab">NuGet (PM Console)</a></li>
-                <li class=""><a href="#nugetexe" data-toggle="tab">NuGet.exe</a></li>
-                <li class="active"><a href="#dotnetexe" data-toggle="tab">.NET CLI</a></li>
-                <li class=""><a href="#csproj" data-toggle="tab">.csproj</a></li>
-                <li><a href="#psget" data-toggle="tab">PowerShellGet</a></li>
- </ul>
-<div class="tab-content snippets">
--->
-
- <div class="tab-pane" id="nuget">
- <div class="terminal-commandWrapper">
- <div class="terminal-commandPrompt">
-                            
-</div>                     
- <div class="tab-pane" id="nugetexe">
- <div class="terminal-commandWrapper">
- <div class="terminal-commandPrompt">
-                            
- </div>
-                     
- </div>
- <div class="tab-pane active" id="dotnetexe">
- <div class="terminal-commandWrapper">
- <div class="terminal-commandPrompt">
- 
- </div>
- </div>
- <div class="tab-pane active" id="csproj">
- <div class="terminal-commandWrapper">
- <div class="terminal-commandPrompt">
- 
- </div>
- </div>
- <div class="tab-pane active" id="psget">
- <div class="terminal-commandWrapper">
- <div class="terminal-commandPrompt">
- 
- </div>
      
      
                  
