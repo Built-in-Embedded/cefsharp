@@ -6,6 +6,31 @@ dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://
 
  <div class="tab-content">
 
+
+<ul id="tabbar"> <!-- Tab Links id -->
+    <!-- Tab Links Children -->
+    <li data-item="tab-one tab-active" data-initial="true">Tab One</li>
+    <li data-item="tab-two">Tab Two</li>
+    <li data-item="tab-three">Tab Three</li>
+    <li data-item="tab-four">Tab Four</li>
+</ul>
+
+<div id="tabview"> <!-- Tab View id  -->
+    <!-- Tab View Children -->
+    <h1 data-view="tab-one">
+        Tab 1
+    </h1>
+    <h1 data-view="tab-two">
+        Tab 2
+    </h1>
+    <h1 data-view="tab-three">
+        Tab 3
+    </h1>
+    <h1 data-view="tab-four">
+        Tab 4
+    </h1>
+</div>
+
 |----------------|----------------|
 |----------------|----------------|
 
