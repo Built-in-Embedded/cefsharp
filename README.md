@@ -1,20 +1,9 @@
 
-<div class="md-fenced-code-tabs"></div>
 
 <div class="md-fenced-code-tabs">
-
-``` c
-printf("HELLO WORLD!");
-```
-
-``` java 
-System.out.println("HELLO WORLD!");
-```
-
-``` python
+```python
 print("HELLO WORLD!")
 ```
-
 ```.NET
 dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://www.myget.org/F/cefsharp/api/v3/index.json
 ```
