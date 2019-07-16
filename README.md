@@ -6,19 +6,21 @@ dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://
 
  <div class="tab-content">
 
+|----------------|----------------|
+|----------------|----------------|
+
+
+<!--
  <div class="tabs-top">
  <ul class="nav nav-tabs">
                 <li class=""><a href="#nuget" data-toggle="tab">NuGet (PM Console)</a></li>
                 <li class=""><a href="#nugetexe" data-toggle="tab">NuGet.exe</a></li>
                 <li class="active"><a href="#dotnetexe" data-toggle="tab">.NET CLI</a></li>
                 <li class=""><a href="#csproj" data-toggle="tab">.csproj</a></li>
-                <li><a href="#paket" data-toggle="tab">Paket</a></li>
-                <li><a href="#chocolatey" data-toggle="tab">Chocolatey</a></li>
                 <li><a href="#psget" data-toggle="tab">PowerShellGet</a></li>
  </ul>
-
- <div class="tab-content snippets">
-
+<div class="tab-content snippets">
+-->
 
  <div class="tab-pane" id="nuget">
  <div class="terminal-commandWrapper">
@@ -37,7 +39,20 @@ dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://
  <div class="terminal-commandPrompt">
  
  </div>
-                 
+ </div>
+ <div class="tab-pane active" id="csproj">
+ <div class="terminal-commandWrapper">
+ <div class="terminal-commandPrompt">
+ 
+ </div>
+ </div>
+ <div class="tab-pane active" id="psget">
+ <div class="terminal-commandWrapper">
+ <div class="terminal-commandPrompt">
+ 
+ </div>
+     
+     
                  
 Browse the sources in this package using Visual Studio or WinDbg by configuring 
 the following symbol server URL: 
