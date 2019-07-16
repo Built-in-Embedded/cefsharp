@@ -7,7 +7,7 @@ dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://
  <div class="tab-content">
 
  <div class="tabs-top">
-            <ul class="nav nav-tabs">
+ <ul class="nav nav-tabs">
                 <li class=""><a href="#nuget" data-toggle="tab">NuGet (PM Console)</a></li>
                 <li class=""><a href="#nugetexe" data-toggle="tab">NuGet.exe</a></li>
                 <li class="active"><a href="#dotnetexe" data-toggle="tab">.NET CLI</a></li>
@@ -15,47 +15,28 @@ dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://
                 <li><a href="#paket" data-toggle="tab">Paket</a></li>
                 <li><a href="#chocolatey" data-toggle="tab">Chocolatey</a></li>
                 <li><a href="#psget" data-toggle="tab">PowerShellGet</a></li>
-            </ul>
+ </ul>
 
  <div class="tab-content snippets">
 
 
  <div class="tab-pane" id="nuget">
-                    <div class="terminal-commandWrapper">
-                        <div class="terminal-commandPrompt">
-                            <p class="terminal-command">
-                                PM&gt; Install-Package CefSharp.WinForms -Version 75.0.110-CI3193 -Source https://www.myget.org/F/cefsharp/api/v3/index.json
-                            </p>
-                        </div>
-                    </div>
-                        <span class="clippy-container" style="float: none;">
-        <span class="clippy-button" title="Copy to clipboard" data-bind="clipboard: ko.observable('Install-Package CefSharp.WinForms -Version 75.0.110-CI3193 -Source https://www.myget.org/F/cefsharp/api/v3/index.json')"></span>
-    </span>
-    <a href="#" title="Copy to clipboard" data-bind="clipboard: ko.observable('Install-Package CefSharp.WinForms -Version 75.0.110-CI3193 -Source https://www.myget.org/F/cefsharp/api/v3/index.json')">Copy to clipboard</a>
-
+ <div class="terminal-commandWrapper">
+ <div class="terminal-commandPrompt">
+                            
+</div>                     
+ <div class="tab-pane" id="nugetexe">
+ <div class="terminal-commandWrapper">
+ <div class="terminal-commandPrompt">
+                            
  </div>
-                <div class="tab-pane" id="nugetexe">
-                    <div class="terminal-commandWrapper">
-                        <div class="terminal-commandPrompt">
-                            <p class="terminal-command">
-                                &gt; nuget.exe install CefSharp.WinForms -Version 75.0.110-CI3193 -Source https://www.myget.org/F/cefsharp/api/v3/index.json
-                            </p>
-                        </div>
-                    </div>
-                        <span class="clippy-container" style="float: none;">
-        <span class="clippy-button" title="Copy to clipboard" data-bind="clipboard: ko.observable('nuget.exe install CefSharp.WinForms -Version 75.0.110-CI3193 -Source https://www.myget.org/F/cefsharp/api/v3/index.json')"></span>
-    </span>
-    <a href="#" title="Copy to clipboard" data-bind="clipboard: ko.observable('nuget.exe install CefSharp.WinForms -Version 75.0.110-CI3193 -Source https://www.myget.org/F/cefsharp/api/v3/index.json')">Copy to clipboard</a>
-
+                     
  </div>
-                <div class="tab-pane active" id="dotnetexe">
-                    <div class="terminal-commandWrapper">
-                        <div class="terminal-commandPrompt">
-                            <p class="terminal-command">
-                                &gt; dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://www.myget.org/F/cefsharp/api/v3/index.json
-                            </p>
-                        </div>
-                    </div>
+ <div class="tab-pane active" id="dotnetexe">
+ <div class="terminal-commandWrapper">
+ <div class="terminal-commandPrompt">
+ 
+ </div>
                  
                  
 Browse the sources in this package using Visual Studio or WinDbg by configuring 
