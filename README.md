@@ -4,6 +4,7 @@
 dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://www.myget.org/F/cefsharp/api/v3/index.json
 ```
 
+ <div class="tab-content">
 
  <div class="tabs-top">
             <ul class="nav nav-tabs">
@@ -55,101 +56,8 @@ dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://
                             </p>
                         </div>
                     </div>
-                        <span class="clippy-container" style="float: none;">
-        <span class="clippy-button" title="Copy to clipboard" data-bind="clipboard: ko.observable('dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://www.myget.org/F/cefsharp/api/v3/index.json')"></span>
-    </span>
-    <a href="#" title="Copy to clipboard" data-bind="clipboard: ko.observable('dotnet add package CefSharp.WinForms --version 75.0.110-CI3193 --source https://www.myget.org/F/cefsharp/api/v3/index.json')">Copy to clipboard</a>
-
-
-      </div>
-                <div class="tab-pane" id="csproj">
-                    <pre class="editor ace_editor ace-tomorrow" style="height: 14px;"><textarea class="ace_text-input" wrap="off" autocorrect="off" autocapitalize="off" spellcheck="false" readonly="" style="opacity: 0; font-size: 1px; height: 1px; width: 1px; top: 13px; left: 4px;"></textarea><div class="ace_gutter" aria-hidden="true" style="display: none; left: 0px;"><div class="ace_layer ace_gutter-layer ace_folding-enabled" style="height: 1e+06px;"></div></div><div class="ace_scroller" style="left: 0px; right: 0px; bottom: 0px;"><div class="ace_content" style="top: 0px; left: 0px; width: 754px; height: 42px;"><div class="ace_layer ace_print-margin-layer"><div class="ace_print-margin" style="left: 4px; visibility: visible;"></div></div><div class="ace_layer ace_marker-layer"><div class="ace_active-line" style="height: 14px; top: 0px; left: 0px; right: 0px;"></div></div><div class="ace_layer ace_text-layer" style="height: 1e+06px; margin: 0px 4px; top: 0px; left: 0px;"><div class="ace_line" style="height: 14px; top: 0px;"><span class="ace_meta ace_tag ace_punctuation ace_tag-open ace_xml">&lt;</span><span class="ace_meta ace_tag ace_tag-name ace_xml">PackageReference</span><span class="ace_text ace_tag-whitespace ace_xml"> </span><span class="ace_entity ace_other ace_attribute-name ace_xml">Include</span><span class="ace_keyword ace_operator ace_attribute-equals ace_xml">=</span><span class="ace_string ace_attribute-value ace_xml">"CefSharp.WinForms"</span><span class="ace_text ace_tag-whitespace ace_xml"> </span><span class="ace_entity ace_other ace_attribute-name ace_xml">Version</span><span class="ace_keyword ace_operator ace_attribute-equals ace_xml">=</span><span class="ace_string ace_attribute-value ace_xml">"75.0.110-CI3193"</span><span class="ace_text ace_tag-whitespace ace_xml"> </span><span class="ace_meta ace_tag ace_punctuation ace_tag-close ace_xml">/&gt;</span></div></div><div class="ace_layer ace_marker-layer"></div><div class="ace_layer ace_cursor-layer ace_hidden-cursors"><div class="ace_cursor" style="display: block; top: 0px; left: 4px; width: 7px; height: 14px;"></div></div></div></div><div class="ace_scrollbar ace_scrollbar-v" style="display: none; width: 22px; bottom: 0px;"><div class="ace_scrollbar-inner" style="width: 22px; height: 14px;">&nbsp;</div></div><div class="ace_scrollbar ace_scrollbar-h" style="display: none; height: 22px; left: 0px; right: 0px;"><div class="ace_scrollbar-inner" style="height: 22px; width: 754px;">&nbsp;</div></div><div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font: inherit; overflow: hidden;"><div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font: inherit; overflow: visible;">הההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההה</div><div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; overflow: visible;">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</div></div></pre>
-                        <span class="clippy-container" style="float: none;">
-        <span class="clippy-button" title="Copy to clipboard" data-bind="clipboard: ko.observable('<PackageReference Include=&quot;CefSharp.WinForms&quot; Version=&quot;75.0.110-CI3193&quot; />')"></span>
-    </span>
-    <a href="#" title="Copy to clipboard" data-bind="clipboard: ko.observable('<PackageReference Include=&quot;CefSharp.WinForms&quot; Version=&quot;75.0.110-CI3193&quot; />')">Copy to clipboard</a>
-
-                </div>
-                <div class="tab-pane" id="paket">
-                    <pre class="editor ace_editor ace-tomorrow"><textarea class="ace_text-input" wrap="off" autocorrect="off" autocapitalize="off" spellcheck="false" readonly="" style="opacity: 0; font-size: 1px;"></textarea><div class="ace_gutter" aria-hidden="true" style="display: none;"><div class="ace_layer ace_gutter-layer ace_folding-enabled" style="height: 1e+06px;"></div></div><div class="ace_scroller"><div class="ace_content"><div class="ace_layer ace_print-margin-layer"><div class="ace_print-margin" style="left: 4px; visibility: visible;"></div></div><div class="ace_layer ace_marker-layer"></div><div class="ace_layer ace_text-layer" style="height: 1e+06px; margin: 0px 4px;"></div><div class="ace_layer ace_marker-layer"></div><div class="ace_layer ace_cursor-layer ace_hidden-cursors"><div class="ace_cursor"></div></div></div></div><div class="ace_scrollbar ace_scrollbar-v" style="display: none; width: 22px;"><div class="ace_scrollbar-inner" style="width: 22px;">&nbsp;</div></div><div class="ace_scrollbar ace_scrollbar-h" style="display: none; height: 22px;"><div class="ace_scrollbar-inner" style="height: 22px;">&nbsp;</div></div><div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font: inherit; overflow: hidden;"><div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font: inherit; overflow: visible;"></div><div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font: inherit; overflow: visible;">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</div></div></pre>
-                        <span class="clippy-container" style="float: none;">
-        <span class="clippy-button" title="Copy to clipboard" data-bind="clipboard: ko.observable('source https://www.myget.org/F/cefsharp/api/v3/index.json\r\n\r\nnuget CefSharp.WinForms  ~> 75.0.110-CI3193')"></span>
-    </span>
-    <a href="#" title="Copy to clipboard" data-bind="clipboard: ko.observable('source https://www.myget.org/F/cefsharp/api/v3/index.json\r\n\r\nnuget CefSharp.WinForms  ~> 75.0.110-CI3193')">Copy to clipboard</a>
-
-                </div>
-                <div class="tab-pane" id="chocolatey">
-                    <div class="terminal-commandWrapper">
-                        <div class="terminal-commandPrompt">
-                            <p class="terminal-command">
-                                &gt; choco install CefSharp.WinForms --version 75.0.110-CI3193 --source https://www.myget.org/F/cefsharp/api/v2
-                            </p>
-                        </div>
-                    </div>
-                        <span class="clippy-container" style="float: none;">
-        <span class="clippy-button" title="Copy to clipboard" data-bind="clipboard: ko.observable('choco install CefSharp.WinForms --version 75.0.110-CI3193 --source https://www.myget.org/F/cefsharp/api/v2')"></span>
-    </span>
-    <a href="#" title="Copy to clipboard" data-bind="clipboard: ko.observable('choco install CefSharp.WinForms --version 75.0.110-CI3193 --source https://www.myget.org/F/cefsharp/api/v2')">Copy to clipboard</a>
-
-                </div>
-                <div class="tab-pane" id="psget">
-                    <pre class="editor ace_editor ace-tomorrow"><textarea class="ace_text-input" wrap="off" autocorrect="off" autocapitalize="off" spellcheck="false" readonly="" style="opacity: 0; font-size: 1px;"></textarea><div class="ace_gutter" aria-hidden="true" style="display: none;"><div class="ace_layer ace_gutter-layer ace_folding-enabled" style="height: 1e+06px;"></div></div><div class="ace_scroller"><div class="ace_content"><div class="ace_layer ace_print-margin-layer"><div class="ace_print-margin" style="left: 4px; visibility: visible;"></div></div><div class="ace_layer ace_marker-layer"></div><div class="ace_layer ace_text-layer" style="height: 1e+06px; margin: 0px 4px;"></div><div class="ace_layer ace_marker-layer"></div><div class="ace_layer ace_cursor-layer ace_hidden-cursors"><div class="ace_cursor"></div></div></div></div><div class="ace_scrollbar ace_scrollbar-v" style="display: none; width: 22px;"><div class="ace_scrollbar-inner" style="width: 22px;">&nbsp;</div></div><div class="ace_scrollbar ace_scrollbar-h" style="display: none; height: 22px;"><div class="ace_scrollbar-inner" style="height: 22px;">&nbsp;</div></div><div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font: inherit; overflow: hidden;"><div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font: inherit; overflow: visible;"></div><div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font: inherit; overflow: visible;">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</div></div></pre>
-                        <span class="clippy-container" style="float: none;">
-        <span class="clippy-button" title="Copy to clipboard" data-bind="clipboard: ko.observable('Import-Module PowerShellGet\r\nRegister-PSRepository -Name &quot;cefsharp&quot; -SourceLocation &quot;https://www.myget.org/F/cefsharp/api/v2&quot;\r\nInstall-Module -Name &quot;CefSharp.WinForms&quot; -RequiredVersion &quot;75.0.110-CI3193&quot; -Repository &quot;cefsharp&quot; -AllowPreRelease')"></span>
-    </span>
-    <a href="#" title="Copy to clipboard" data-bind="clipboard: ko.observable('Import-Module PowerShellGet\r\nRegister-PSRepository -Name &quot;cefsharp&quot; -SourceLocation &quot;https://www.myget.org/F/cefsharp/api/v2&quot;\r\nInstall-Module -Name &quot;CefSharp.WinForms&quot; -RequiredVersion &quot;75.0.110-CI3193&quot; -Repository &quot;cefsharp&quot; -AllowPreRelease')">Copy to clipboard</a>
-
-                </div>
-            </div>
-        </div>
-
-            <hr>
-            <p>
-                Browse the sources in this package using Visual Studio or WinDbg by configuring the following symbol server URL: <code>https://www.myget.org/F/cefsharp/symbols/</code>
-            </p>
-
-        <hr>
-
-        <div class="tabs-top">
-        <ul class="nav nav-tabs">
-                <li class="active"><a href="#readme" data-toggle="tab">Readme</a></li>
-
-                <li class=""><a href="#releasenotes" data-toggle="tab">Release notes</a></li>
-
-                <li class=""><a href="#dependencies" data-toggle="tab">Dependencies</a></li>
-
-
-
-                <li class=""><a href="#sources" class="loadSources" data-toggle="tab">Source code</a></li>
-                <li class=""><a href="#symbols" data-toggle="tab">Symbols</a></li>
-            
-        </ul>
-
-            <div class="tab-content">
-                    <div class="tab-pane active" id="readme">
-                        <p><a href="https://cefsharp.github.io/" title="CefSharp - Embedded Chromium for .NET"><img src="logo.png" alt="CefSharp Logo"></a></p>
-<p><a href="https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master"><img src="https://ci.appveyor.com/api/projects/status/9g4mcuqruc283g66/branch/master?svg=true" alt="Build status"></a>
-<a href="https://www.nuget.org/packages/CefSharp.WinForms/"><img src="https://img.shields.io/nuget/v/CefSharp.WinForms.svg?style=flat&amp;label=WinForms" alt="CefSharp.WinForms"></a>
-<a href="https://www.nuget.org/packages/CefSharp.Wpf/"><img src="https://img.shields.io/nuget/v/CefSharp.Wpf.svg?style=flat&amp;label=Wpf" alt="CefSharp.Wpf"></a>
-<a href="https://www.nuget.org/packages/CefSharp.OffScreen/"><img src="https://img.shields.io/nuget/v/CefSharp.OffScreen.svg?style=flat&amp;label=OffScreen" alt="CefSharp.OffScreen"></a></p>
-<p>Got a quick question? Jump on <a href="https://gitter.im/cefsharp/CefSharp?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="Gitter"></a></p>
-<p><a href="https://cefsharp.github.io/">CefSharp</a> lets you embed Chromium in .NET apps. It is a lightweight .NET wrapper around the <a href="https://bitbucket.org/chromiumembedded/cef">Chromium Embedded Framework (CEF)</a> by Marshall A. Greenblatt. About 30% of the bindings are written in C++/CLI with the majority of code here is C#. It can be used from C# or VB, or any other CLR language. CefSharp provides both WPF and WinForms web browser control implementations.</p>
-<p>CefSharp is <a href="https://opensource.org/licenses/BSD-3-Clause" title="BSD License">BSD</a> licensed, so it can be used in both proprietary and free/open source applications. For the full details, see the <a href="LICENSE">LICENSE</a> file.</p>
-<p>If you like and use CefSharp please consider signing up for a small monthly donation, even $25 can help tremendously. See <a href="#Financial-Support">Financial Support</a> for more details.</p>
-<h2 id="releases">Releases</h2>
-<p>Stable binaries are released on NuGet, and contain everything you need  to embed Chromium in your .Net/CLR application. For usage see the <a href="https://github.com/cefsharp/CefSharp/wiki/Quick-Start">Quick Start</a> guide or <a href="https://github.com/cefsharp/CefSharp/wiki/Frequently-asked-questions#CefSharp_binaries">FAQ #8</a>.</p>
-<ul>
-<li><a href="https://www.nuget.org/packages/CefSharp.WinForms/">CefSharp.WinForms</a></li>
-<li><a href="https://www.nuget.org/packages/CefSharp.Wpf/">CefSharp.Wpf</a></li>
-
-
-
-
-
-
-
-
-
+                 
+                 
 Browse the sources in this package using Visual Studio or WinDbg by configuring 
 the following symbol server URL: 
 ```yml
