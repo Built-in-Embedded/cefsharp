@@ -1,3 +1,14 @@
+
+
+Browse the sources in this package using Visual Studio or WinDbg by configuring 
+the following symbol server URL: 
+```yml
+https://www.myget.org/F/cefsharp/symbols/ 
+```
+
+
+***
+
 [![CefSharp Logo](logo.png)](https://cefsharp.github.io/ "CefSharp - Embedded Chromium for .NET")
 
 [![Build status](https://ci.appveyor.com/api/projects/status/9g4mcuqruc283g66/branch/master?svg=true)](https://ci.appveyor.com/project/cefsharp/cefsharp/branch/master)
