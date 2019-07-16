@@ -18,33 +18,33 @@
 
 </head>
 <body>
-    <a class="sr-only" href="#content">Skip navigation</a>
-    <header class="navbar navbar-inverse navbar-fixed-top bs-docs-nav" role="banner">
-    <div class="container">
-            <div class="navbar-header">
-                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+<a class="sr-only" href="#content">Skip navigation</a>
+<header class="navbar navbar-inverse navbar-fixed-top bs-docs-nav" role="banner">
+<div class="container">
+<div class="navbar-header">
+<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="../" class="navbar-brand">CefSharp</a>
-            </div>
-            <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-                <ul class="nav navbar-nav">
-                    <li class="active">
-                        <a href="../getting-started">Getting started</a>
-                    </li>
-                    <li>
-                        <a href="test-suite">Test Suite</a>
-                    </li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+<a href="#" class="navbar-brand">CefSharp</a>
+</div>
+<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+<ul class="nav navbar-nav">
+<li class="active">
+<a href="#/getting-started">Getting started</a>
+</li>
+<li>
+<a href="test-suite">Test Suite</a>
+</li>
+</ul>
+</nav>
+</div>
+</header>
  <!-- Docs page layout -->
-    <div class="bs-header" id="content">
-        <div class="container">
+<div class="bs-header" id="content">
+<div class="container">
             <h1>
                 Getting started
             </h1>
@@ -81,12 +81,12 @@ Based on the <a href="http://getbootstrap.com/getting-started/">Twitter Bootstra
  whose code is licensed under <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache License v2.0</a>
  and documentation is licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.
 </p>
-            <ul class="footer-links">
+<ul class="footer-links">
                 <li><a href="https://github.com/cefsharp/CefSharp/issues?state=open">Issues</a></li>
                 <li class="muted">&middot;</li>
                 <li><a href="https://github.com/cefsharp/CefSharp/releases">Releases</a></li>
-            </ul>
-        </div>
+</ul>
+</div>
 </footer>
 
 <!-- Bootstrap core JavaScript
